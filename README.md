@@ -10,5 +10,8 @@ This is a small project that crawled about 700 book covers in Data & AI fields i
 2. For each handled title in that list, I used Google Search API to crawling original image (full size, not thumnail);
 3. Finally, write the image to *.jpg file.
 
+## Result
+This [my dataset](https://www.kaggle.com/datasets/biminhc/book-covers-of-amazon-data-ai-books) that I crawled.
+
 ## Reference
 * [Dmitriy Zub - Scrape and download Google Images with Python](https://dev.to/dmitryzub/scrape-google-images-with-python-1ee2)
