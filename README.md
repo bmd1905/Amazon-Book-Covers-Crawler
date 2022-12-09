@@ -1,4 +1,7 @@
 # Book Covers Crawler
+![amazon2](https://user-images.githubusercontent.com/90423581/206743211-922c02c5-70f9-40bf-aee5-3d550c4dc263.jpg)
+
+
 ## Introduction
 This is a small project that crawled about 700 book covers in Data & AI fields in Amazon.
 
