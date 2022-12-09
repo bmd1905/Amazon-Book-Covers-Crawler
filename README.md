@@ -1,4 +1,4 @@
-# Crawling Book Covers in Data & AI fields in Amazon
+# Book Covers Crawler
 ## Introduction
 This is a small project that crawled about 700 book covers in Data & AI fields in Amazon.
 
