@@ -11,7 +11,7 @@ This is a small project that crawled about 700 book covers in Data & AI fields i
 3. Finally, write the image to *.jpg file.
 
 ## Result
-This [my dataset](https://www.kaggle.com/datasets/biminhc/book-covers-of-amazon-data-ai-books) that I crawled.
+This is [my dataset](https://www.kaggle.com/datasets/biminhc/book-covers-of-amazon-data-ai-books) that I crawled.
 
 ## Reference
 * [Dmitriy Zub - Scrape and download Google Images with Python](https://dev.to/dmitryzub/scrape-google-images-with-python-1ee2)
